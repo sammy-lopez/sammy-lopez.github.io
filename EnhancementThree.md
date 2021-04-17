@@ -5,4 +5,4 @@ I chose to include this artifact in my porfolio because efficient database creat
   
 The largest challenge I faced with this artifact is similar to my second artifact. Throught these courses everything is very fast paced and once a semester ends, the next often begins wihtout much time. Because of its fast paced nature I would quickly begin to focus on the enxt subject while leaving the rpevious behind. When deciding what courses to revisit, I chose to pick subjects I enjoyed more than ones I was more expereinced with. Luckily I had previous assignments available to me and that combined with research through the internet I was able to refresh myself to develop this artifact.   
   
-<a href="Enhancement3.txt">Enhancement One</a>
+<a href="Enhancement3.txt">Enhancement Three</a>
