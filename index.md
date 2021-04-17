@@ -13,3 +13,4 @@ Within this porfolio I have gathered some works throughout my courses to show ho
 
 **Navigation Links**<br>  
 * [Enhancement One](https://sammy-lopez.github.io/EnhancementOne.html)<br>
+* [Enhancement Two](https://sammy-lopez.github.io/EnhancementTwo.html)<br>
