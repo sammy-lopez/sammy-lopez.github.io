@@ -1,4 +1,3 @@
-# Introduction  
 ## Background  
 I began my journey through the SNHU Computer Science program in 2018 with the intention of entering the gaming industry. I struggled with choosing what path to commit my life to and have always had a love for games and the unique interaction with the story they can tell. I still hold these values but throughout the courses I have taken I have been introduced to many other aspects within computer science that I have learned to enjoy.  
 ## Educational Journey  
