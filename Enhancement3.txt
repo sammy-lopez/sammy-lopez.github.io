@@ -1,0 +1,87 @@
+CREATE DATABASE game_log;
+
+CREATE TABLE naughty_dog_games (
+	id int NOT NULL IDENTITY (1, 1,),
+	game_name char (128) NOT NULL,
+	rating char (128) NOT NULL,
+	release_date int NOT NULL,
+	genre char (128) NOT NULL,
+	CONSTRAINT nd_games PRIMARY KEY (id)
+);
+
+INSERT INTO naughty_dog_games (game_name, rating, release_date, genre) 
+VALUES ('Crash Bandicoot', 'KA', 1996, 'Platformer');
+
+INSERT INTO games (game_name, rating, release_date, genre)
+VALUES ('Jak and Daxter', 'E', 2001, 'Plaformer');
+
+INSERT INTO games (game_name, rating, release_date, genre)
+VALUES ('Uncharted', 'T', 2007, 'Action-Adventure');
+
+INSERT INTO games (game_name, rating, release_date, genre)
+VALUES ('The Last of Us', 'M', 2013, 'Survival Horror');
+
+CREATE TABLE insomniac_games
+	id int NOT NULL IDENTITY (1, 1,),
+	game_name char (128) NOT NULL,
+	rating char (128) NOT NULL,
+	release_date int NOT NULL,
+	genre char (128) NOT NULL,
+	CONSTRAINT insom_games PRIMARY KEY (id)
+);
+
+INSERT INTO insomniac_games (game_name, rating, release_date, genre) 
+VALUES ('Spyro', 'KA', 1998, 'Platformer');
+
+INSERT INTO naughty_dog_games (game_name, rating, release_date, genre)
+VALUES ('Ratchet & Clank', 'T', 2002, 'Platformer');
+
+INSERT INTO naughty_dog_games (game_name, rating, release_date, genre) 
+VALUES ('Resistance', 'M', 2006, 'First-Person Shooter');
+
+INSERT INTO naughty_dog_games (game_name, rating, release_date, genre) 
+VALUES ('Sunset Overdrive', 'M', 2014, 'Action-Adventure');
+
+INSERT INTO naughty_dog_games (game _name, rating, release_date, genre) 
+VALUES ('Spider Man', 'T', 2018, 'Action-Adventure');
+
+ALTER TABLE naughty_dog_games ADD platform char(128) DEFAULT NULL;
+
+ALTER TABLE insomniac_games ADD multiplayer char(1) DEFAULT NULL;
+
+UPDATE naughty_dog_games SET platform = 'Playstation' WHERE rating = 'KA';
+UPDATE naughty_dog_games SET platform = 'Playstation' WHERE rating = 'E';
+UPDATE naughty_dog_games SET platform = 'Playstation' WHERE rating = 'T';
+UPDATE naughty_dog_games SET platform = 'Playstation' WHERE rating = 'M';
+
+UPDATE insomniac_games SET multiplayer = 'N' WHERE genre = 'Platformer';
+UPDATE insomniac_games SET multiplayer = 'Y' WHERE genre = 'First-Person Shooter';
+UPDATE insomniac_games SET multiplayer = 'N' WHERE genre = 'Action-Adventure';
+
+DELETE FROM insomniac_games WHERE game_name = 'Resistance';
+
+ALTER TABLE naughty_dog_games ADD favorite char(1) DEFAULT NULL;
+
+UPDATE naughty_dog_games SET favorite = 'Y' WHERE genre = 'Platformer';
+
+CREATE TABLE nintendo_games
+	id int NOT NULL IDENTITY (1, 1,),
+	game_name char (128) NOT NULL,
+	rating char (128) NOT NULL,
+	release_date int NOT NULL,
+	genre char (128) NOT NULL,
+	favorite char(1) NOT NULL,
+	CONSTRAINT ninten_games PRIMARY KEY (id)
+);
+
+INSERT INTO nintendo_games (game_name, rating, release_date, genre, favorite) 
+VALUES ('Super Mario Bros', 'E', 1985, 'Platformer', 'Y');
+
+INSERT INTO nintendo_games (game_name, rating, release_date, genre, favorite)
+VALUES ('The Legend of Zelda', 'E', 1986, 'Action-Adventure', 'Y');
+
+INSERT INTO nintendo_games (game_name, rating, release_date, genre, favorite)
+VALUES ('Star Fox', 'E', 1993, 'Rail Shooter', 'Y');
+
+INSERT INTO nintendo_games (game_name, rating, release_date, genre, favorite)
+VALUES ('Donkey Kong', 'E', 1981, 'Platformer', 'N');
