@@ -10,5 +10,4 @@ project and ran into many hurdles when creating this project. The biggest help I
 predominantly straight lines. I found myself ofen going back to previous sections of the project to assure that everything was consecutive and by the end arrived at a fully lit 
 and textured object that reflects exactly what I wanted to create. 
 
-[Enhancement One](https://github.com/sammy-lopez.github.io/Enhancement1.cpp)
-<a href="Enhancement1.cpp">Download!</a>
+<a href="Enhancement1.cpp">Enhancement One</a>
