@@ -2,7 +2,7 @@
 For my first artifact I chose to expand off of the skills I learned in my CS-330 course that i completed in December 2020. The course focused on creation of a 3D object using C++ 
 and OpenGL. For my initial submission for the course final, I created a dining chair. For this artifact I chose to create a new object using the same skill, but this time I made
 a bookshelf.  
-I chose to include this artifact in my portolfio because it was one that most applied to the field I would like to enter. The gaming industry has for the msot part moved away from
+I chose to include this artifact in my portolfio because it was one that most applied to the field I would like to enter. The gaming industry has for the most part moved away from
 using these methods to develop games. Most studios now rely on programs that have been created and tailored specifically to aid in game design. These would be programs like Unreal 
 Engine, Unity, and GameMaker. Still I thought it important to display my ability to use more traditional methods to create 3D objects.  
 When going to create this artifact I was fortunate enough to have recently completed this course so much of it was still fresh in my memory. Still, I struggled with the initial 
