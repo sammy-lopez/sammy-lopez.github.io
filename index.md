@@ -14,6 +14,7 @@ Within this porfolio I have gathered some works throughout my courses to show ho
 - In course CS-340 I was introduced to SQL and the database management it offers. With this knowledge I created a database and throughout its creation made changes to adjust its usefulness. My intention was for this database to then be utilized with commands to find information within it and compare the various tables within to one another.  
 
 **Navigation Links**<br>  
+* [Home Page](https://sammy-lopez.github.io/index.md.html)<br>
 * [Enhancement One](https://sammy-lopez.github.io/EnhancementOne.html)<br>
 * [Enhancement Two](https://sammy-lopez.github.io/EnhancementTwo.html)<br>
 * [Enhancement Three](https://sammy-lopez.github.io/EnhancementThree.html)<br>
