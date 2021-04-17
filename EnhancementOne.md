@@ -1,5 +1,5 @@
 ## Enhancement One: Software Engineering and Design 
-For my first artifact I chose to expand off of the skills I learned in my CS-330 course that i completed in December 2020. The course focused on creation of a 3D object using C++ 
+For my first artifact I chose to expand off of the skills I learned in my CS-330 course that I completed in December 2020. The course focused on creation of a 3D object using C++ 
 and OpenGL. For my initial submission for the course final, I created a dining chair. For this artifact I chose to create a new object using the same skill, but this time I made
 a bookshelf.  
   
