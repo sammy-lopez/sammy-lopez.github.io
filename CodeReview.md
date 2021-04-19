@@ -8,7 +8,7 @@ My selection for the third category is to further refine my final project from D
 Below I have included a code review of the intital project that I have built the artifacts from. This does not include the second artifact as there is no code associated with said artifact.  
 I have also included a checklist for my first enhancement project to ensure it is up to industry standards.  
   
-<a href="Code Review Checklist.docx">Enhancement One</a>
+<a href="Code Review Checklist.docx">Enhancement One Checklist</a>
 <iframe width="560" height="315" src="https://youtu.be/U7sjRIFUPtI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""> </iframe>
   
 **Navigation Links**<br>  
