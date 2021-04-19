@@ -14,7 +14,7 @@ Within this porfolio I have gathered some works throughout my courses to show ho
 
 **Navigation Links**<br>  
 * [Home Page](https://sammy-lopez.github.io/index.md.html)<br>
-* [Code Review](https://sammy-lopez.github.io/CodeReview.html)<br>
+* [Refinement Plan and Code Review](https://sammy-lopez.github.io/CodeReview.html)<br>
 * [Enhancement One](https://sammy-lopez.github.io/EnhancementOne.html)<br>
 * [Enhancement Two](https://sammy-lopez.github.io/EnhancementTwo.html)<br>
 * [Enhancement Three](https://sammy-lopez.github.io/EnhancementThree.html)<br>
