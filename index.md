@@ -10,7 +10,7 @@ Some other aspects of the industry that were enforced were the importance of ado
 Within this porfolio I have gathered some works throughout my courses to show how I have been prepared to enter the industry. While of course my knowledge is not limited to these artifacts, I believe they will convey some of the skills I learned to make myself a valuable addition to a project's team.  
 - In course CS-330 I was tasked with creating a 3D object using OpenGL. I decided to build off of these skills to create an entirely new object using the same methods.  
 - In course CS-250 I learned all about the software development lifecycle, specifically agile and SCRUM. To show my proficiency with these concepts I wrote a breakdown of the central ideals of an agile development lifecycle and included the roles and responsibilities for each. Showing my full understanding of the inner working of the development process.  
-- In course CS-340 I was introduced to SQL and the database management it offers. With this knowledge I created a database and throughout its creation made changes to adjust its usefulness. My intention was for this database to then be utilized with commands to find information within it and compare the various tables within to one another.  
+- In course DAD-220 I was introduced to SQL and the database management it offers. With this knowledge I created a database and throughout its creation made changes to adjust its usefulness. My intention was for this database to then be utilized with commands to find information within it and compare the various tables within to one another.  
 
 **Navigation Links**<br>  
 * [Home Page](https://sammy-lopez.github.io/index.md.html)<br>
