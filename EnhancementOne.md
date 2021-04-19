@@ -15,7 +15,7 @@ and textured object that reflects exactly what I wanted to create.
 <a href="Enhancement1.cpp">Enhancement One</a>
 
 **Navigation Links**<br>  
-* [Home Page](https://sammy-lopez.github.io/index.md.html)<br>
+* [Home Page](https://sammy-lopez.github.io/index.html)<br>
 * [Refinement Plan and Code Review](https://sammy-lopez.github.io/CodeReview.html)<br>
 * [Enhancement One](https://sammy-lopez.github.io/EnhancementOne.html)<br>
 * [Enhancement Two](https://sammy-lopez.github.io/EnhancementTwo.html)<br>
