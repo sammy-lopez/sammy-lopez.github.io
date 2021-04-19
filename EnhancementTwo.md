@@ -6,3 +6,10 @@ I chose to include this artifact in my portfolio because I believe it will show 
 Because I enjoyed the concpets of this course and the critical thinking that it required, I did not find many issues with creating this artifact. The most difficult aspect was how long ago I attended the course. Many of the concepts were a bit blurred since my time first learning about different development methodologies. This was easily fixed with a quick refresher of my previous submissions for the course.   
 
 <a href="Enhancement2.docx">Enhancement Two</a>
+
+**Navigation Links**<br>  
+* [Home Page](https://sammy-lopez.github.io/index.md.html)<br>
+* [Refinement Plan and Code Review](https://sammy-lopez.github.io/CodeReview.html)<br>
+* [Enhancement One](https://sammy-lopez.github.io/EnhancementOne.html)<br>
+* [Enhancement Two](https://sammy-lopez.github.io/EnhancementTwo.html)<br>
+* [Enhancement Three](https://sammy-lopez.github.io/EnhancementThree.html)<br>
