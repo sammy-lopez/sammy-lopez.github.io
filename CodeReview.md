@@ -9,7 +9,7 @@ Below I have included a code review of the intital project that I have built the
 <iframe width="560" height="315" src="https://youtu.be/U7sjRIFUPtI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""> </iframe>
 
 **Navigation Links**<br>  
-* [Home Page](https://sammy-lopez.github.io/index.md.html)<br>
+* [Home Page](https://sammy-lopez.github.io/index.html)<br>
 * [Refinement Plan and Code Review](https://sammy-lopez.github.io/CodeReview.html)<br>
 * [Enhancement One](https://sammy-lopez.github.io/EnhancementOne.html)<br>
 * [Enhancement Two](https://sammy-lopez.github.io/EnhancementTwo.html)<br>
