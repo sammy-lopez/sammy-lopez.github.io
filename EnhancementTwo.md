@@ -8,7 +8,7 @@ Because I enjoyed the concpets of this course and the critical thinking that it 
 <a href="Enhancement2.docx">Enhancement Two</a>
 
 **Navigation Links**<br>  
-* [Home Page](https://sammy-lopez.github.io/index.md.html)<br>
+* [Home Page](https://sammy-lopez.github.io/index.html)<br>
 * [Refinement Plan and Code Review](https://sammy-lopez.github.io/CodeReview.html)<br>
 * [Enhancement One](https://sammy-lopez.github.io/EnhancementOne.html)<br>
 * [Enhancement Two](https://sammy-lopez.github.io/EnhancementTwo.html)<br>
