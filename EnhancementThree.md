@@ -8,7 +8,7 @@ The largest challenge I faced with this artifact is similar to my second artifac
 <a href="Enhancement3.txt">Enhancement Three</a>
 
 **Navigation Links**<br>  
-* [Home Page](https://sammy-lopez.github.io/index.md.html)<br>
+* [Home Page](https://sammy-lopez.github.io/index.html)<br>
 * [Refinement Plan and Code Review](https://sammy-lopez.github.io/CodeReview.html)<br>
 * [Enhancement One](https://sammy-lopez.github.io/EnhancementOne.html)<br>
 * [Enhancement Two](https://sammy-lopez.github.io/EnhancementTwo.html)<br>
