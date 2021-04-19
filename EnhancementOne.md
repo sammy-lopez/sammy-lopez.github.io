@@ -13,3 +13,10 @@ predominantly straight lines. I found myself ofen going back to previous section
 and textured object that reflects exactly what I wanted to create. 
 
 <a href="Enhancement1.cpp">Enhancement One</a>
+
+**Navigation Links**<br>  
+* [Home Page](https://sammy-lopez.github.io/index.md.html)<br>
+* [Refinement Plan and Code Review](https://sammy-lopez.github.io/CodeReview.html)<br>
+* [Enhancement One](https://sammy-lopez.github.io/EnhancementOne.html)<br>
+* [Enhancement Two](https://sammy-lopez.github.io/EnhancementTwo.html)<br>
+* [Enhancement Three](https://sammy-lopez.github.io/EnhancementThree.html)<br>
