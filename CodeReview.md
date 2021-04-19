@@ -7,3 +7,10 @@ My selection for the third category is to further refine my final project from D
 ## Code Review
 Below I have included a code review of the intital project that I have built the artifacts from. This does not include the second artifact as there is no code associated with aid artifact. 
 <iframe width="560" height="315" src="https://youtu.be/U7sjRIFUPtI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""> </iframe>
+
+**Navigation Links**<br>  
+* [Home Page](https://sammy-lopez.github.io/index.md.html)<br>
+* [Refinement Plan and Code Review](https://sammy-lopez.github.io/CodeReview.html)<br>
+* [Enhancement One](https://sammy-lopez.github.io/EnhancementOne.html)<br>
+* [Enhancement Two](https://sammy-lopez.github.io/EnhancementTwo.html)<br>
+* [Enhancement Three](https://sammy-lopez.github.io/EnhancementThree.html)<br>
